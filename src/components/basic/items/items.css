@@ -1,0 +1,12 @@
+.mobile-main{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 300px;
+    width: 200px;
+    object-fit: cover;
+}
+.mt-60{
+    margin-top: 60px;
+}

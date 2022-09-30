@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mobile-card{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.dress-card{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    gap: 20px;
+}
